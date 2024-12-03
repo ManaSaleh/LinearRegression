@@ -49,3 +49,8 @@ A comprehensive exploration of Linear Regression, from basics to advanced topics
 2. Explore the notebooks.
 
 ---
+
+
+Thank you for exploring this Linear Regression repo! I hope it serves as a valuable resource for learning and implementation. If you have any feedback or suggestions, feel free to contribute or reach out. Happy coding! 🚀
+
+---
